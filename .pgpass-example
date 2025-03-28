@@ -1,0 +1,1 @@
+db.example.com:5432:*:db_user:SuperSecret
